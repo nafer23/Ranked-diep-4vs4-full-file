@@ -1,0 +1,13 @@
+{
+  "clientId": "",
+  "clientSecret": "",
+  "authSecret": "",
+  "publicUrl": "http://localhost:8080",
+  "redirectUri": "http://localhost:8080/auth/discord/callback",
+  "guildId": "",
+  "requiredRoleIds": [
+    "", 
+    ""
+  ],
+  "requireAuth": true
+}

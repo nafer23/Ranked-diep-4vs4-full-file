@@ -1,0 +1,12 @@
+[03:23:23] Rest API hosting is enabled and is now being hosted at /api
+[03:23:23] Client hosting is enabled and is now being hosted from ./client
+[03:23:23] Loaded 4 banned IPs from file.
+[03:23:23] Listening on port 8080
+[!] Servers up
+ :: All servers booted up.
+[03:23:23] Dumping endpoint -> gamemode routing table
+> localhost:8080/sandbox                   -> Sandbox
+> localhost:8080/4v4                       -> 4v4
+> localhost:8080/item4v4                   -> Item 4v4
+> localhost:8080/3v3v3                     -> 3v3v3
+> localhost:8080/swap                      -> Swap
